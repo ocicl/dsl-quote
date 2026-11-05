@@ -1,0 +1,9 @@
+* dsl-quote
+
+It can control multi-level DSL expansion in the same way as the quotation mechanisms in Common Lisp (dsl-quote, dsl-quasiquote, dsl-comma), resolve function name conflicts across multiple DSL levels, and control at which level DSL code is expanded. It works perfectly with HTML/JS generating DSLs like `spinneret` and `parenscript`.
+
+|---------+------------------------------------------------------------|
+| source  | git:https://github.com/cppnb2023/dsl-quote.git            |
+| commit  | 0000000                                                    |
+| systems | dsl-quote                                                 |
+|---------+------------------------------------------------------------|
