@@ -4,6 +4,6 @@ It can control multi-level DSL expansion in the same way as the quotation mechan
 
 |---------+------------------------------------------------------------|
 | source  | git:https://github.com/cppnb2023/dsl-quote.git            |
-| commit  | 438f2a6                                                    |
+| commit  | b58f00f                                                    |
 | systems | dsl-quote                                                 |
 |---------+------------------------------------------------------------|
